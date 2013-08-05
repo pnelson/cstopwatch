@@ -1,0 +1,10 @@
+CStopwatch
+==========
+
+This is a quick and dirty utility class I wrote for the Windows platform. I
+found myself needing to benchmark in many applications.
+
+It has been a while since I have C++'d but I suspect it may be bad habit to have
+the source mixed in the header file.
+
+Anyway, I hope this is of use to someone.
